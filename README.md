@@ -12,7 +12,7 @@ With this challenge, you will learn
 
 ### Participant
 
-> Name: Tobi Taiwo (rebirthtobi)
-> Bio: I'm a software develope with knowledge in JavaScript and PHP. An aspiring data scientist.
+> Name: Tobi Taiwo (rebirthtobi) \
+Bio: I'm a software develope with knowledge in JavaScript and PHP. An aspiring data scientist.
 
 ===================== NEXT PARTICIPANT =================
