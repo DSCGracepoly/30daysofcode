@@ -5,7 +5,7 @@ checkout, fork and submitting a pull request.
 
 Todays task will be about fixing typos so go through the "More About The Challenge" in this `README.md`
 file and spot/fix some of the typos because it's a more common thing that do happen across some projects documentation.
-once spotted and fixed Yeah viola :cocktail: you on a step to contributing to open source project be it coding, fixing bugs and spotting typos in documentation.  
+once spotted and fixed Yeah viola :cocktail: you are on a step to contributing to open source project be it coding, fixing bugs and spotting typos in documentation.  
 
 ### More About The Challenge
 
