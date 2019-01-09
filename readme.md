@@ -1,11 +1,29 @@
-# Day 1 Challenge
+# Day 3 Challenge
 
-Given an excerpt of the presidential speech rendered on independence day, you are to write an algorith that returns the number of occurence of each alphabeth and return an object with the letters as key and the number of occurence as value. `Note that you are to ignore the numbers in the speech.`
+We are off to day 3 since day 2 were about understanding how github works in respect to branching,
+checkout, fork and submitting a pull request.
 
-```sh
-Example: 'Who are they?'
-Response: {'w': 1, 'h': 2, 'o': 1, 'a':1, 'r':1, 'e': 2, 't': 1, 'y': 1}
-```
-### President Speech Excerpt
+Todays task will be about fixing typos so go through the "More About The Challenge" in this `README.md`
+file and spot/fix some of the typos because it's a more common thing that do happen across some projects documentation.
+once spotted and fixed Yeah viola :cocktail: you on a step to contributing to open source project be it coding, fixing bugs and spotting typos in documentation.  
 
-> We will continue to support initiatives aimed at addressing the challenges of our times: global and regional crises and conflicts, terrorism, trans-border crime, climate change, human rights, gender equality, development, poverty and inequality within and between nations, etc. In this context, we are working hard to achieve both the AU 2063 Agenda for socio-economic transformation of our continent; and the UN 2030 Agenda for sustainable development, which together aim at addressing these challenges
+### More About The Challenge
+
+There are several good reasons you should consider committing to this challenge:
+
+1. Codng will become a daily habit for you — a habit that you can easily maintin after youve finished the
+   challenge.
+
+2. Every day that you consistently code, you’ll build momentum. That momentum will make it easier for you to learn
+   more adanced topics. You won’t have to spend extra time trying to remember what you did previously. You can stay
+   in the “flow” of coding.
+
+3. The projects that you’ll build will be small in scope, so by the time you finish, you’ll have completed several
+   of them — and gained a wide rang of experience.
+
+4. Your GitHub profile will look extremey active. And yes, hiring managers and recruites do look at these.
+
+5. Youll have a good reason to stop procrastinating and start coding evry day.
+
+6. You’ll greatly diminish your fear of stating a new coding project. It will become a natural, ordinay thing to do.
+
