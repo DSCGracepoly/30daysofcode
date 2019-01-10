@@ -10,9 +10,13 @@ With this challenge, you will learn
 1) How to use github branch, checkout, fork, and submitting a pul request feature
 2) How to write in markdown
 
-### Participant
+### ParticipantS
 
 > Name: Tobi Taiwo (rebirthtobi) \
 Bio: I'm a software develope with knowledge in JavaScript and PHP. An aspiring data scientist.
+
+
+**Name**: Oluwatobiloba Olusoga (*thadev404*):computer:
+**Bio**: I'm a software developer with an insatiable knack for solving problems. I currently code in X++ and Angular. But my first love is Python :smile: :blush:
 
 ===================== NEXT PARTICIPANT =================
