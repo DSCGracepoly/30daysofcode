@@ -14,7 +14,7 @@ There are several good reasons you should consider committing to this challenge:
    challenge.
 
 2. Every day that you consistently code, you’ll build momentum. That momentum will make it easier for you to learn
-   more adanced topics. You won’t have to spend extra time trying to remember what you did previously. You can stay
+   more advanced topics. You won’t have to spend extra time trying to remember what you did previously. You can stay
    in the “flow” of coding.
 
 3. The projects that you’ll build will be small in scope, so by the time you finish, you’ll have completed several
