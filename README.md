@@ -1,11 +1,13 @@
-# Day 5 Challenge
+# Day 6 Challenge
 
-Day 5 challenge goes like this
-> Rearrange numbers from 1 to 50 such that all odd numbers come first then followed by 3v3n numbers \
-Eample: [1,2,3,4,5] => [1,3,5,2,4]
+Day 6 challenge goes like this
+> Write a function that will accept two string parameter, one is an array of string and second is a string to search for, you are to search the array for the string and return the complete string the array index that contain the searched string?\
+Eample: func searchBox(['a', 'the boy', cat'], 'boy') => {'the boy', 0}
 
 ### What to learn
 
 With this challenge, you will learn
 
-1) sorting algorithm
+1) Searching algorithm
+2) String methods
+3) Array methods
