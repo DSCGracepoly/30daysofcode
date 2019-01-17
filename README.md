@@ -1,10 +1,12 @@
-# Day 8 Challenge
+# Day 9 Challenge
 
-Day 8 challenge goes like this
-> Design a stopwatch with Stop, Reset, Start, and Continue Buttons
+Day 9 challenge goes like this
+> Fetch Top 100 github users in Nigeria and display them on a web page
 
 ### What to learn
 
 With this challenge, you will learn
 
-1) JavaScripts Skills
+1) Use of fetch
+2) How to work with apis
+3) How to implement pagination
