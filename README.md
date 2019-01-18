@@ -1,7 +1,8 @@
-# Day 9 Challenge
+# Day 10 Challenge
 
-Day 9 challenge goes like this
-> Fetch Top 100 github users in Nigeria and display them on a web page
+Day 10 challenge goes like this
+> Finishing up of day 9 challenge\
+>Fetch Top 100 github users in Nigeria and display them on a web page
 
 ### What to learn
 
