@@ -1,7 +1,7 @@
-# Day 9 Challenge
+# Day 11 Challenge
 
-Day 9 challenge goes like this
-> Fetch Top 100 github users in Nigeria and display them on a web page
+Day 11 challenge goes like this
+> Modify your github web app to be able to filter by number of repositories, e.t.c
 
 ### What to learn
 
