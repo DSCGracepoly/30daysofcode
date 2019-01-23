@@ -1,6 +1,11 @@
-# 30daysofcode
+Day 8 Challenge
 
+Day 8 challenge goes like this
 
-HERE COMES DAY 7 CHALLENGE
+    Design a stopwatch with Stop, Reset, Start, and Continue Buttons
 
-Write a function that Convert an object to a two dimensional array. Example {id: [1,2,3], name: ["durotimi", "rebirthtobi", " Nelson"] } =>[ ["Id", "name"][1, "durotimi"] [2, "rebirthtobi"] [3, " Nelson"]]
+What to learn
+
+With this challenge, you will learn
+
+    JavaScripts Skills
