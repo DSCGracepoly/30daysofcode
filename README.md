@@ -1,12 +1,11 @@
-# Day 12 Challenge
+# Day 13 Challenge
 
-Day 11 challenge goes like this
-> Modify your github web app to include an input field so as to saerch github users by what is entered in the input field
+Day 13 challenge goes like this
+> Make your web app mobile responsive, this might mean completely scraping out the initial design as its suppose to be mobile first
 
 ### What to learn
 
 With this challenge, you will learn
 
-1) Use of fetch
-2) How to work with apis
-3) How to implement pagination
+1) Use of CSS media queries
+2) Responsive Designs
