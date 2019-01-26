@@ -1,8 +1,8 @@
-Day 11 Challenge
+Day 12 Challenge
 
 Day 11 challenge goes like this
 
-    Modify your github web app to be able to filter by number of repositories, e.t.c
+    Modify your github web app to include an input field so as to saerch github users by what is entered in the input field
 
 What to learn
 
