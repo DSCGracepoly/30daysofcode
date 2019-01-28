@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Day 14 Challenge</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="day14.css" />
+</head>
+<body>
+    <div id="parent">
+            <input type="text" id="filterUsers" onkeyup="filterUsers()" placeholder="Search for users...">
+            <div style="overflow-x:auto;">
+                <table id="gitHubUsers">
+                    <tr>
+                        <th>No</th>
+                        <th>Github User Name</th>
+                        <th>User Details</th>                     
+                    </tr>
+                </table>
+            </div>
+    </div>
+    <div id="my-modal" class="modal">
+        <span id="close-modal" class="close">×</span>
+
+        <div id="info">
+            <h2></h2>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+        </div>
+    </div>
+
+</body>
+<script src="day14.js"></script>
+</html>
