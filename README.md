@@ -1,11 +1,11 @@
-# Day 14 Challenge
+# Day 15 Challenge
 
-Day 14 challenge goes like this
-> We are tweaking our web app to add user details page, so the challenge for today is to add a user details page to the web app that will show the details of any selected user.
+Day 15 challenge goes like this
+> Host your webapp on gitpages
 
 ### What to learn
 
 With this challenge, you will learn
 
-1) Use of CSS for navigation
-2) Html linking
+1) Hosting a webapp
+2) Github pages
