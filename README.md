@@ -1,8 +1,11 @@
-# 30daysofcode
+# Day 15 Challenge
 
-# A repository featuring my solution to the DSC Grace Poly 30 Days of code, Day 15 Challenge.
+Day 15 challenge goes like this
+> Host your webapp on gitpages
 
-[Link to this project on github pages ](https://thadev404.github.io/30daysofcode/)
+### What to learn
 
+With this challenge, you will learn
 
-This *README.md* file was formatted with **markdown** :smile:.
+1) Hosting a webapp
+2) Github pages
