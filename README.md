@@ -1,4 +1,4 @@
-# Day 16 Challenge
+# Day 17 Challenge
 
-Day 16 challenge goes like this
-> Tweet to @dsc_gracepoly about about 30days challenge and also post the link to your web app with hashtag #DSCGracepoly #30dayscodechallenge
+Day 17 challenge goes like this
+> Given a string, write a function that will output the an array of non repeating characters in that string. e.g. ` func dummy("this is") => ["t", "h"]`
