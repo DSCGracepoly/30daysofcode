@@ -15,4 +15,7 @@ With this challenge, you will learn
 > Name: Tobi Taiwo (rebirthtobi) \
 Bio: I'm a software develope with knowledge in JavaScript and PHP. An aspiring data scientist.
 
+> Name: Atanda AbdulAzeez (CodenNerd) \
+Bio: I'm a software developer with knowledge in JavaScript, PHP and Node. I love AI and hope to be deeply into it soon.
+
 ===================== NEXT PARTICIPANT =================
