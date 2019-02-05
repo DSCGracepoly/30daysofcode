@@ -1,12 +1,5 @@
-# Day 3 Challenge
+Day 17 Challenge
 
-Day 3 challenge goes like this
-> Given a string, reverse it.\
-> Example `a cat` => `tac a`
+Day 17 challenge goes like this
 
-### What to learn
-
-With this challenge, you will learn
-
-1) How to work with strings
-2) Various string methods
+    Given a string, write a function that will output the an array of non repeating characters in that string. e.g. func dummy("this is") => ["t", "h"]
