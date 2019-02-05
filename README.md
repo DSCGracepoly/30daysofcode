@@ -1,4 +1,4 @@
-# Day 17 Challenge
+# Day 18 Challenge
 
-Day 17 challenge goes like this
-> Given a string, write a function that will output the an array of non repeating characters in that string. e.g. ` func dummy("this is") => ["t", "h"]`
+Day 18 challenge goes like this
+> Write a recursive function that returns the binary string of a given decimal number. `Given 4 as the decimal input, the function should return 100`
