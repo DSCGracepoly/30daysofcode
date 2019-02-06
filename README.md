@@ -1,4 +1,13 @@
-# Day 18 Challenge
+# Day 19 Challenge
 
-Day 18 challenge goes like this
-> Write a recursive function that returns the binary string of a given decimal number. `Given 4 as the decimal input, the function should return 100`
+Day 19 challenge goes like this
+> Let's say:
+
+>'(', '{', '[' are called "openers."
+')', '}', ']' are called "closers."
+Write an efficient function that tells us whether or not an input string's openers and closers are properly nested.
+
+>Examples:
+"{ [ ] ( ) }" should return true
+"{ [ ( ] ) }" should return false
+"{ [ }" should return false
