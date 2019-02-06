@@ -1,13 +1,5 @@
-Day 10 Challenge
+**Day 18 Challenge**
 
-Day 10 challenge goes like this
+Day 18 challenge goes like this
 
-    Fetch Top 100 github users in Nigeria and display them on a web page
-
-What to learn
-
-With this challenge, you will learn
-
-    Use of fetch
-    How to work with apis
-    How to implement pagination
+    Write a recursive function that returns the binary string of a given decimal number. Given 4 as the decimal input, the function should return 100
