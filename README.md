@@ -9,4 +9,5 @@ The output should be two capital letters with a dot seperating them.
 it should look like this:
 
 > John Doe => J.D
+
 > Steve Brian => S.B
