@@ -1,9 +1,11 @@
-**Day 19 Challenge**
+**Day 20 Challenge**
 
-Day 19 challenge goes like this
+Write a function to convert a name into initials. This challenge takes two words with one space in between them.
 
-    Let's say:
+The output should be two capital letters with a dot seperating them.
 
-    '(', '{', '[' are called "openers." ')', '}', ']' are called "closers." Write an efficient function that tells us whether or not an input string's openers and closers are properly nested.
+it should look like this:
 
-    Examples: "{ [ ] ( ) }" should return true "{ [ ( ] ) }" should return false "{ [ }" should return false
+    John Doe => J.D
+
+    Steve Brian => S.B
