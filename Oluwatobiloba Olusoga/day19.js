@@ -1,5 +1,4 @@
 function validateString(str){
-    
     str.trim();
     noOfCurlyOpeners = (str.match(/{/g)||[]).length;
     noOfCurlyClosers = (str.match(/}/g)||[]).length;
@@ -7,74 +6,75 @@ function validateString(str){
     noOfSquareClosers = str.split(']').length - 1;
     noOfRoundOpeners = str.split('[').length - 1;
     noOfRoundClosers = str.split(']').length - 1;
-    
-    let stack = [];
-    
     str = str.replace(/[^{}()\]\[]/g, '');
-    // console.log(str);
+
     if (noOfCurlyOpeners != noOfCurlyClosers  ){
-      return 'false';
+      console.log(false);
+      return;
     }
     if (noOfSquareOpeners != noOfSquareClosers  ){
-      return 'false';
+        console.log(false);
+        return;
     }
     if (noOfRoundOpeners != noOfRoundClosers  ){
-      return 'false';
-    }
-  
-    
-//     if (str[1] == ']' || str[1] == ')' ){
-//         return false;
-//       }
-
-    
-    let closers = {
-      '{': '}',
-      '[': ']',
-      '(': ')',
-    };
-    
-    str.split('').forEach(function(character, i){
-      
-      let position = i + 1;
-      
-      if(!~'({[)}]'.indexOf(character)){
-        
-       
+        console.log(false);
         return;
-        
-      } else if(~'({['.indexOf(character)){
-        
-        stack.push(character);
-        
-      } else if(!stack.length){
-        
-        return false;
-        
-      } else if(~')}]'.indexOf(character)){
-        
-        let characterToClose = stack.pop();
-        let expectedCloser = closers[characterToClose];
-        
-        if(character !== expectedCloser){
-            return false;
-        }
-      }
-    });
-    
-   
-    if(stack.length){
-        return false;
     }
+    stringLent = str.length;
+    validateCode(str);
+}
     
-    return true;
-    
-  }
-  // console.log(validateString("{ [ ( ] ) }" ));
- 
-function validateCode(stringToBeValidated){
-  console.log(validateString(stringToBeValidated));
+let noOfTimes = 0;
+let stringLent = 0;
+function validateCode(str){
+    let stack = [];
+    let closerIndex;
+    if (noOfTimes == stringLent / 2  && str == ''){
+        console.log(true);
+        return;
+    }
+    else if(noOfTimes == stringLent / 2  && str.length >= 1){
+        console.log(false);
+        return;
+    }
+
+    for(i = 0; i < str.length; i++){
+        if (str[i] == ']'){
+            stack[0] = ']';
+            stack[1] = '[';
+            closerIndex = str.indexOf(']');
+            break;
+        }
+        else if (str[i] == ')'){
+            stack[0] = ')';
+            stack[1] = '(';
+            closerIndex = str.indexOf(')');
+            break;
+        }
+        else if (str[i] == '}'){
+            stack[0] = '}';
+            stack[1] = '{';
+            closerIndex = str.indexOf('}');
+            break;
+        }
+    }
+
+    if (str[str.indexOf(stack[0]) - 1] == stack[1]){
+        str = str.slice(0, closerIndex - 1) + str.slice(closerIndex + 1, str.length);
+      }
+    else{
+        console.log(false);
+        return;
+    }
+    noOfTimes += 1;
+    validateCode(str);
 }
 
-const stringToBeValidated = '{ [ ( ] ) }';
-window.onload = console.log(validateString(stringToBeValidated));
+function validate(str){
+    noOfTimes = 0;
+    stringLent = 0;
+    validateString(str);
+}
+
+const stringToBeValidated = '[ ] ( ) ';
+window.onload = validateString(stringToBeValidated);
