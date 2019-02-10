@@ -1,22 +1,21 @@
-
 <!DOCTYPE <!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Day 19 Challenge </title>
+    <title>Day 21 Challenge </title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" media="screen" href="day19.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="day21.css" />
     
 </head>
 <body>
     <div id="parent">
-        <h4>Input the string to be validated for openers and closers</h4>
-        <textarea id="word"></textarea>
+        <h4>Input the numbers you want to multiply</h4>
+        <input placeholder="input first number" type="number" id="no1"></input> <input type="number" placeholder="input second number" id="no2"></input>
         <br>
-        <button type="submit" onclick="validateCode(document.getElementById('word').value)">Submit</button>
+        <button type="submit" onclick="multiplyNums(document.getElementById('no1').value)(document.getElementById('no2').value)">Submit</button>
     </div>
     
 </body>
-<script src="day19.js"></script>
+<script src="day21.js"></script>
 </html>
