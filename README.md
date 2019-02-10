@@ -1,9 +1,5 @@
-**Day 19 Challenge**
+**Day 21 Challenge**
 
-Day 19 challenge goes like this
+Day 21 challenge goes like this
 
-    Let's say:
-
-    '(', '{', '[' are called "openers." ')', '}', ']' are called "closers." Write an efficient function that tells us whether or not an input string's openers and closers are properly nested.
-
-    Examples: "{ [ ] ( ) }" should return true "{ [ ( ] ) }" should return false "{ [ }" should return false
+    Write a function that could allow you to do this multiply(5)(6);
