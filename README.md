@@ -1,4 +1,6 @@
-# Day 23 Challenge
+# Day 24 Challenge
 
-Day 23 challenge goes like this
-> Write a stopwatch function that can be paused, resumed, reset, and cleared. The result should be displayed in an html page
+Day 24 challenge goes like this
+> Write a JavaScript function that generates all combinations of a string  
+> Example string : 'dog'  
+> Expected Output : d,do,dog,o,og,g 
